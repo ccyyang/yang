@@ -1,4 +1,3 @@
-# yang
 This repository contains a feature dataset for emotion recognition based on Photoplethysmogram (PPG) signals, suitable for research in physiological signal processing, affective computing, and human-computer interaction.
 
 ### File Descriptions
